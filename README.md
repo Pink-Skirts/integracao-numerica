@@ -1,4 +1,4 @@
-# integracao-numerica
+# Integração numerica
 ## Introdução
 Projeto da disciplina de Métodos Numéricos, do curso de Ciência da Computação da PUC-SP, proposto pela docente Maria Inez Rodrigues Miguel.
 ## Implementação: 
